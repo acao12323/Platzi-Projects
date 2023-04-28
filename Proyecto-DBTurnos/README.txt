@@ -1,0 +1,3 @@
+Este proyecto consiste en una base de dato MySQL creada usando DBeaver. El objetivo es almacenar los datos sobre los el numero y el tipo de pacientes atendidos durante cada turno un un servicio de urgencias de primer nivel. El objetivo es usar esos datos para analizar el influjo de pacientes que llegan al servicio de urgencias, clasificarlos por grupos, medir su tiempo de estancia, el uso de ayudas diagnósticas y el tipo de salida, todo de acuerdo al genero y tipo de patologia.
+
+Nota importante: Los datos recopilados cumplen con las normas de buenas practicas clínicas en investigación y no violan la privacidad de ningún paciente, dado que no se recopilan datos personales que permitan identificar al paciente o su patología. 
